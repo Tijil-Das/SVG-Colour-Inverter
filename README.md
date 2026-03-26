@@ -29,7 +29,7 @@ No installs. No servers. No uploads to any third party. Drop in an SVG, click in
 
 ## Usage
 
-1. Open `svg-color-inverter.html` in any modern browser — no server required.
+1. Open `SVG-Color-Inverter.html` in any modern browser — no server required.
 2. Drop your `.svg` file onto the drop zone, or click it to browse.
 3. Adjust the toggle controls if needed (defaults cover most cases).
 4. Click **Invert Colours**.
